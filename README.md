@@ -15,4 +15,4 @@
 | [Using Microsoft Process Explorer](https://www.101labs.net/comptia-security/lab-57-how-to-use-process-explorer-to-find-and-scan-suspicious-processes-for-malware/) | How ot use Process Explorer to find and scan suspicious process for malware |
 | [Malware Hunting](https://www.youtube.com/watch?v=A_TPZxuTzBU) | Malware hunting using free sysinternal tools like Process Explorer |
 | [How to Delete a Virus from Windows Registry](https://www.youtube.com/watch?v=uEv0Tpcfn40) |  To assist you in how to delete an entry from the Registry |
-| [Zoomltv8.01](https://learn.microsoft.com/en-us/sysinternals/downloads/zoomit) | Zoomlt is a screen zoom, annotation, and recording tool |
+| [ZoomItv8.01](https://learn.microsoft.com/en-us/sysinternals/downloads/zoomit) | ZoomIt is a screen zoom, annotation, and recording tool |
