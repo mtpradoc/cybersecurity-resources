@@ -10,3 +10,4 @@
 | [Microsoft Defender Antivirus Documentation](https://support.microsoft.com/en-us/windows/stay-protected-with-windows-security-2ae0363d-0ada-c064-8b56-6a39afb6a963#:~:text=Windows%20Security%20is%20built%2Din,program%20called%20Microsoft%20Defender%20Antivirus.) | Stay Protected with Windows Security |
 | [EICAR website](https://www.eicar.org/download-anti-malware-testfile/#top) | European Institute of Computer Antivirus Research - EICAR teset file |
 | [EICAR Test File Article](https://en.wikipedia.org/wiki/EICAR_test_file) | Instead of using real malware, which could cause real damage, this test file allows people to test anti-virus software without having to use a real computer virus |
+| [VirusTotal Website](https://www.virustotal.com/gui/home/search) | Check if a file, ip address, hash, or URL you suspect is malicious |
