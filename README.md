@@ -13,3 +13,4 @@
 | [VirusTotal Website](https://www.virustotal.com/gui/home/search) | Check if a file, ip address, hash, or URL you suspect is malicious |
 | [Microsoft Process Explorer](https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer) | Identify process in your system that can be malware |
 | [Using Microsoft Process Explorer](https://www.101labs.net/comptia-security/lab-57-how-to-use-process-explorer-to-find-and-scan-suspicious-processes-for-malware/) | How ot use Process Explorer to find and scan suspicious process for malware |
+| [Malware Hunting](https://www.youtube.com/watch?v=A_TPZxuTzBU) | Malware hunting using free sysinternal tools like Process Explorer |
