@@ -18,3 +18,4 @@ Collecting more resources each time. Welcome!
 | [Malware Hunting](https://www.youtube.com/watch?v=A_TPZxuTzBU) | Malware hunting using free sysinternal tools like Process Explorer |
 | [How to Delete a Virus from Windows Registry](https://www.youtube.com/watch?v=uEv0Tpcfn40) |  To assist you in how to delete an entry from the Registry |
 | [ZoomItv8.01](https://learn.microsoft.com/en-us/sysinternals/downloads/zoomit) | ZoomIt is a screen zoom, annotation, and recording tool |
+| [Apple go to](https://news.sophos.com/en-us/2014/02/28/sophos-in-the-news-world-of-warbiking-apples-goto-fail-bug-android-malware-surge/) | Mac OS X 10.9 (Mavericks) to be tricked by cybercriminals into accepting SSL/TLS certificates that ought to be rejected |
