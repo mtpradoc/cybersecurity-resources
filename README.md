@@ -26,3 +26,4 @@ Collecting more resources each time. Welcome!
 | [OWASP Software Assurance Maturity Model](https://owasp.org/www-project-samm/) | Modern development practice that use security development lifecycle |
 | [OWASP Top 10](https://owasp.org/www-project-top-ten/) | Descriptions of specific vulnerabilities, exploits, and mitigation techniques |
 | [OWASP Input Validation](https://cheatsheetseries.owasp.org/cheatsheets/Input_Validation_Cheat_Sheet.html) | Input Validation |
+| [ELK Stack](https://www.elastic.co/elastic-stack) | Elasticseach, Logstash and Kibana  collect, analyze and visualize large amounts of security related data |
