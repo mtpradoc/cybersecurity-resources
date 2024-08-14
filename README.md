@@ -19,3 +19,10 @@ Collecting more resources each time. Welcome!
 | [How to Delete a Virus from Windows Registry](https://www.youtube.com/watch?v=uEv0Tpcfn40) |  To assist you in how to delete an entry from the Registry |
 | [ZoomItv8.01](https://learn.microsoft.com/en-us/sysinternals/downloads/zoomit) | ZoomIt is a screen zoom, annotation, and recording tool |
 | [Apple goto fail!](https://news.sophos.com/en-us/2014/02/28/sophos-in-the-news-world-of-warbiking-apples-goto-fail-bug-android-malware-surge/) | Mac OS X 10.9 (Mavericks) to be tricked by cybercriminals into accepting SSL/TLS certificates that ought to be rejected |
+| [SonarQube](https://www.sonarsource.com/products/sonarqube/) | Static Code Analysis Tool |
+| [Coverity](https://www.synopsys.com/software-integrity/security-testing/static-analysis-sast.html) | Static Code Analysis Tool |
+| [Fortify](https://www.microfocus.com/en-us/cyberres/application-security) | Static Code Analysis Tool |
+| [Microsoft Security Development Lifecycle](https://www.microfocus.com/en-us/cyberres/application-security) | Modern development practice that use security development lifecycle |
+| [OWASP Software Assurance Maturity Model](https://owasp.org/www-project-samm/) | Modern development practice that use security development lifecycle |
+| [OWASP Top 10](https://owasp.org/www-project-top-ten/) | Descriptions of specific vulnerabilities, exploits, and mitigation techniques |
+| [OWASP Input Validation](https://cheatsheetseries.owasp.org/cheatsheets/Input_Validation_Cheat_Sheet.html) | Input Validation |
